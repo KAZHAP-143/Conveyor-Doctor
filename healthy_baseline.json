@@ -1,0 +1,11 @@
+{
+  "mode": "synthetic",
+  "sample_count": 100,
+  "method": "mean +/- 3 sample standard deviations",
+  "mean_current_A": 1.9992238511395872,
+  "std_current_A": 0.061995512852054464,
+  "mean_speed_m_s": 0.49889314412117697,
+  "std_speed_m_s": 0.0110727250236664,
+  "max_current_A": 2.1852103896957504,
+  "min_speed_m_s": 0.46567496905017775
+}

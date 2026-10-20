@@ -1,0 +1,27 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Local backups
+traceability_backup_*/
+*.zip
+*_backup_*.csv
+
+# Generated sensor logs
+conveyor_checks.csv
+sequence_events*.csv
+diagnostic_samples*.csv
+runtime_samples*.csv
+runtime_outcomes.csv
+
+# Generated graphs
+diagnostic_*.png
+runtime_*.png
+conveyor_history.png
+
+# Local environment inventory
+environment_snapshot.txt
+# Local editing artifact and earlier manual version
+prestart_sequence.p
+prestart_sequence_manual_backup.py
