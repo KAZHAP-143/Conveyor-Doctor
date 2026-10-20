@@ -1,5 +1,13 @@
 # Conveyor Doctor
 
+## Dashboard preview
+
+Saved synthetic runtime data showing five healthy samples followed
+by a combined high-current and low-speed fault at sample 6.
+
+![Dashboard overview](docs/images/dashboard-overview.png)
+
+![Runtime graph and fault details](docs/images/dashboard-fault-details.png)
 A beginner engineering project developing a conveyor health-check
 simulation toward future PLC implementation.
 
